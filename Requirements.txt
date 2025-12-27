@@ -1,4 +1,0 @@
-- **Python 3.9+**
-- **PostgreSQL**
-- **psycopg2-binary**
-- **Flask**
