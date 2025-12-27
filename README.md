@@ -32,12 +32,12 @@ This solution supports both:
 ---
 
 ## 📂 Project Structure
-
+```text
 ├── cost_dashboard.py # Core data aggregation logic
 ├── app.py # Flask API server
 ├── cost_dashboard.json # Generated sample JSON output
 ├── README.md # Project documentation
-
+```
 ---
 
 ## 🗄 Database Schema Assumptions
