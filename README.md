@@ -117,14 +117,6 @@ Output:
 ```pgsql
 cost_dashboard.json
 ```
-Option 2: Run Flask API
-```
-python app.py
-```
-API Endpoint:
-```nginx
-GET http://127.0.0.1:5000/api/cost-dashboard
-```
 ---
 # Key Screenshots 
 ### cost_dashboard_integrator.py
