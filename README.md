@@ -34,10 +34,11 @@ This solution supports both:
 ## 📂 Project Structure
 ```text
 ├── Screenshots
+├── README.md # Project documentation
 ├── cost_dashboard_integrator.py # Core data aggregation logic
 ├── cost_dashboard.json # Generated sample JSON output
 ├── requirements.txt
-├── README.md # Project documentation
+├── sample_table.sql
 ```
 ---
 
