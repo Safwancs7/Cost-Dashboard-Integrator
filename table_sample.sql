@@ -16,3 +16,4 @@ top_cost_resources(
   resource_id VARCHAR,
   total_cost NUMERIC
 );
+
