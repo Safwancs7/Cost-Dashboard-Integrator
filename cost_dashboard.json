@@ -1,0 +1,42 @@
+{
+    "submitted_by": "muhammadsafwancs@mulearn",
+    "generated_at": "2025-12-28T08:19:58.737232",
+    "currency": "USD",
+    "grouped_by": "service",
+    "services": {
+        "EC2": {
+            "total_cost": 200.6,
+            "subscriptions": {
+                "prod": {
+                    "total_cost": 200.6,
+                    "daily_costs": {
+                        "2025-01-01": 120.5,
+                        "2025-01-02": 80.1
+                    }
+                }
+            }
+        },
+        "RDS": {
+            "total_cost": 99.9,
+            "subscriptions": {
+                "prod": {
+                    "total_cost": 99.9,
+                    "daily_costs": {
+                        "2025-01-01": 99.9
+                    }
+                }
+            }
+        },
+        "S3": {
+            "total_cost": 45.3,
+            "subscriptions": {
+                "dev": {
+                    "total_cost": 45.3,
+                    "daily_costs": {
+                        "2025-01-01": 45.3
+                    }
+                }
+            }
+        }
+    }
+}
