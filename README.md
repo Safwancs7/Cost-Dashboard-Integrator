@@ -111,7 +111,7 @@ Ensure PostgreSQL is running.
 ### ▶️ Running the Project
 Option 1: Generate JSON File
 ```
-python cost_dashboard.py
+python cost_dashboard_integrator.py
 ```
 Output:
 ```pgsql
