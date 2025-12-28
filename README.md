@@ -96,7 +96,7 @@ source venv/bin/activate
 pip install psycopg2-binary flask
 ```
 ### 4️⃣ Configure Database Connection
-Edit DB_CONFIG in cost_dashboard.py:
+Edit DB_CONFIG in cost_dashboard_integrator.py:
 ```python
 DB_CONFIG = {
     "host": "localhost",
@@ -125,6 +125,16 @@ API Endpoint:
 ```nginx
 GET http://127.0.0.1:5000/api/cost-dashboard
 ```
+---
+### Screenshots 
+# cost_dashboard_integrator.py
+<img width="1192" height="669" alt="Screenshot 2025-12-28 135006" src="https://github.com/user-attachments/assets/c2d8cc23-4183-48a8-9a63-cdf4a2843389" />
+# the generated json output
+<img width="1271" height="905" alt="Screenshot 2025-12-28 135019" src="https://github.com/user-attachments/assets/30f240fe-2b7f-484b-af51-13c19155c1d6" />
+# postgresql created tables
+<img width="1919" height="847" alt="Screenshot 2025-12-28 135032" src="https://github.com/user-attachments/assets/4071eb11-8fad-48e8-a230-f142f4e2daf2" />
+
+
 
 
 
