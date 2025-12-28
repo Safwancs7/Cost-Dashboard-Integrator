@@ -33,9 +33,10 @@ This solution supports both:
 
 ## 📂 Project Structure
 ```text
-├── cost_dashboard.py # Core data aggregation logic
-├── app.py # Flask API server
+├── Screenshots
+├── cost_dashboard_integrator.py # Core data aggregation logic
 ├── cost_dashboard.json # Generated sample JSON output
+├── requirements.txt
 ├── README.md # Project documentation
 ```
 ---
