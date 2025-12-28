@@ -38,7 +38,7 @@ This solution supports both:
 ├── cost_dashboard_integrator.py # Core data aggregation logic
 ├── cost_dashboard.json # Generated sample JSON output
 ├── requirements.txt
-├── sample_table.sql
+├── table_sample.sql
 ```
 ---
 
